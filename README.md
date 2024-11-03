@@ -1,4 +1,4 @@
-Trading softward developer with experience in Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
+Trading software developer with experience in Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
 
 <div align="center">
 <!--
