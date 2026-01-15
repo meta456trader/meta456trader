@@ -1,5 +1,6 @@
-Trading software developer with experience in Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
-
+<p align="center">
+<b>Trading software developer</b> with experience in Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
+</p>
 <div align="center">
 <!--
 <a href="#">
