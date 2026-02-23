@@ -1,5 +1,5 @@
 <p align="center">
-<b>Trading software developer</b> with experience in Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
+<b>Trading software developer</b> with experience in Low-Latency Trading Systems | Quant Tools | Python, C++, C#, Rust | Ninjatrader, MT4/5, TradingView, IBKR, QuantConnect.
 </p>
 <div align="center">
 <!--
